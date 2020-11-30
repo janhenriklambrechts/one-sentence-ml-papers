@@ -1,4 +1,4 @@
-#Awesome Deep Learning Papers
+# Awesome Deep Learning Papers 📰
 
 Feel free to browse my collection of summaries of various Deep Learning Topics, ordered by type 🗂️. 
 
