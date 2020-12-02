@@ -1,4 +1,6 @@
 # Adaptive Discriminator Augmentation
+| Title | Authors | In One Sentence | Summary | Date | Link | Conference |
+| -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
 | Training Generative Adversarial Networks with Limited Data | Tero Karras et al. | Proposes a adaptive discriminator augmentation mechanism that significantly stabilizes limited data regimes | [Summary](./paper-summary/GANs/AdaptiveDiscriminatorAugmentation.md) | 01/12/2020 | [Paper](https://papers.nips.cc/paper/2020/file/8d30aa96e72440759f74bd2306c1fa3d-Paper.pdf) | NeurIPS 2020 | 
 
 ## Abstract
