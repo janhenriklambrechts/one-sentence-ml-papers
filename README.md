@@ -19,3 +19,10 @@ Feel free to browse my collection of summaries of various Deep Learning Topics, 
 | Adaptive Style Transfer in Real-Time with Adaptive Instance Normalization | Xun Huang et al. | Introduces an AdaIN layer that allows for arbitraty style transfer in real-time | [Summary](./paper-summary/style-transfer/AdaIN.md) | 30/07/2017 | [Paper](https://arxiv.org/pdf/1703.06868.pdf) | ICCV 2017 | 
 | Image Style Transfer Using Convolutional Neural Networks | Leon Gatys et al. | Introduces an algorithm that can separate and  recombine style of an image and image content  | [Summary](./paper-summary/style-transfer/ImageStyleTransfer.md) | 07/11/2016 | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) | CVPR 2016 | 
 
+
+## Data Augmentation
+
+| Title | Authors | In One Sentence | Summary | Date | Link | Conference |
+| -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| AutoAugment: Learning Augmentation Strategies from Data | Ekin D. Cubuk et al. | Meta-learning data augmentation for new SOTA on classification | [Summary](./paper-summary/data-augmentation/AutoAugment.md) | 11/04/2019 | [Paper](https://arxiv.org/pdf/1805.09501.pdf) | ArXiv | 
+
