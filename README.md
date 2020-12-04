@@ -42,5 +42,6 @@ Ordered by topic 🗂️:
 
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Improving Robustness Without Sacrificing Accuracy with Patch Gaussian Augmentation | Raphel Gontijo Lopes et al. | Combining Cutout and Gaussian noise in a single data augmentation scheme improves robustness while not incurring accuracy drop.  | [Summary](./paper-summary/robustness/PatchGaussian.md) | 06/06/2019 | [Paper](https://arxiv.org/pdf/1906.02611.pdf) | ICML 2019 Workshop | 
 | Benchmarking Neural Network Robustness to Common Corruptions and Perturbations | Dan Hendrycks et al. | Establishes a benchmark for image classifier robustness to common corruptions.  | [Summary](./paper-summary/robustness/BenchmarkingRobustness.md) | 25/05/2019 | [Paper](https://arxiv.org/pdf/1903.12261.pdf) | ICLR 2019 | 
 
