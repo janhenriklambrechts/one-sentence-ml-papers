@@ -24,6 +24,7 @@ Feel free to browse my collection of summaries of various Deep Learning Topics, 
 
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Fast AutoAugment | Sungbin Lim et al. | Density matching can speed up AutoAugment search time while achieving comparable performance  | [Summary](./paper-summary/data-augmentation/FastAutoAugment.md) | 25/05/2019 | [Paper](https://arxiv.org/pdf/1905.00397v2.pdf) | NeurIPS 2019 | 
 | RandAugment: Practical Automated Data Augmentation with a Reduced Search Space | Ekin D. Cubuk, Barret Zoph et al. | Searching for a single distortion magnitude can do as well or improve previous automated augmentation stratgies  | [Summary](./paper-summary/data-augmentation/RandAugment.md) | 11/04/2019 | [Paper](https://proceedings.neurips.cc/paper/2020/file/d85b63ef0ccb114d0a3bb7b7d808028f-Paper.pdf) | NeurIPS 2020 | 
 | AutoAugment: Learning Augmentation Strategies from Data | Ekin D. Cubuk et al. | Meta-learning data augmentation for new SOTA on classification | [Summary](./paper-summary/data-augmentation/AutoAugment.md) | 11/04/2019 | [Paper](https://arxiv.org/pdf/1805.09501.pdf) | ArXiv | 
 
