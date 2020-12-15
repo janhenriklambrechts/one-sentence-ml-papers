@@ -49,6 +49,6 @@ Ordered by topic 🗂️:
  
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
-| Machine Learning: The High-Interest Credit Card of Technical Debt | D. Sculley et al. | Highlights risk factors and design patterns to be avoided in building ML systems  | [Summary](./paper-summary/deploy-ml/MLTechnicalDebt.md) | 18/11/2014 | [Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) | NeurIPS 2014 Workshop | 
-| Challenges in Deploying ML: A Survey of Case Studies | Andrei Paleyes et al. | A survey of deploying ML solutions for different use cases  | [Summary](./paper-summary/deploy-ml/ChallengesInDeployingML.md) | 18/11/2020 | [Paper](https://arxiv.org/pdf/2011.09926.pdf) | NeurIPS 2020 Workshop | 
+| Machine Learning: The High-Interest Credit Card of Technical Debt | D. Sculley et al. | Highlights risk factors and design patterns to be avoided in building ML systems  | [Summary](./paper-summary/deploying-ml/MLTechnicalDebt.md) | 18/11/2014 | [Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) | NeurIPS 2014 Workshop | 
+| Challenges in Deploying ML: A Survey of Case Studies | Andrei Paleyes et al. | A survey of deploying ML solutions for different use cases  | [Summary](./paper-summary/deploying-ml/ChallengesInDeployingML.md) | 18/11/2020 | [Paper](https://arxiv.org/pdf/2011.09926.pdf) | NeurIPS 2020 Workshop | 
 
