@@ -11,7 +11,7 @@ Ordered by topic 🗂️:
 - Style Transfer 🎨
 - Data Augmentation ✨
 - Robustness 🛡️
- 
+- Deploying ML ☁️ 
 
 ## GANs 🖼️
 
@@ -44,4 +44,11 @@ Ordered by topic 🗂️:
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
 | Improving Robustness Without Sacrificing Accuracy with Patch Gaussian Augmentation | Raphel Gontijo Lopes et al. | Combining Cutout and Gaussian noise in a single data augmentation scheme improves robustness while not incurring accuracy drop.  | [Summary](./paper-summary/robustness/PatchGaussian.md) | 06/06/2019 | [Paper](https://arxiv.org/pdf/1906.02611.pdf) | ICML 2019 Workshop | 
 | Benchmarking Neural Network Robustness to Common Corruptions and Perturbations | Dan Hendrycks et al. | Establishes a benchmark for image classifier robustness to common corruptions.  | [Summary](./paper-summary/robustness/BenchmarkingRobustness.md) | 25/05/2019 | [Paper](https://arxiv.org/pdf/1903.12261.pdf) | ICLR 2019 | 
+
+## Deploying ML ☁️
+ 
+| Title | Authors | In One Sentence | Summary | Date | Link | Conference |
+| -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Machine Learning: The High-Interest Credit Card of Technical Debt | D. Sculley et al. | Highlights risk factors and design patterns to be avoided in building ML systems  | [Summary](./paper-summary/deploy-ml/MLTechnicalDebt.md) | 18/11/2014 | [Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) | NeurIPS 2014 Workshop | 
+| Challenges in Deploying ML: A Survey of Case Studies | Andrei Paleyes et al. | A survey of deploying ML solutions for different use cases  | [Summary](./paper-summary/deploy-ml/ChallengesInDeployingML.md) | 18/11/2020 | [Paper](https://arxiv.org/pdf/2011.09926.pdf) | NeurIPS 2020 Workshop | 
 
