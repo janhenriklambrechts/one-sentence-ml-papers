@@ -12,6 +12,7 @@ Ordered by topic 🗂️:
 - Data Augmentation ✨
 - Robustness 🛡️
 - Deploying ML ☁️ 
+- Continual Learning ♻️
 
 ## GANs 🖼️
 
@@ -51,4 +52,10 @@ Ordered by topic 🗂️:
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
 | Machine Learning: The High-Interest Credit Card of Technical Debt | D. Sculley et al. | Highlights risk factors and design patterns to be avoided in building ML systems  | [Summary](./paper-summary/deploying-ml/MLTechnicalDebt.md) | 18/11/2014 | [Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) | NeurIPS 2014 Workshop | 
 | Challenges in Deploying ML: A Survey of Case Studies | Andrei Paleyes et al. | A survey of deploying ML solutions for different use cases  | [Summary](./paper-summary/deploying-ml/ChallengesInDeployingML.md) | 18/11/2020 | [Paper](https://arxiv.org/pdf/2011.09926.pdf) | NeurIPS 2020 Workshop | 
+
+## Continual Learning ♻️
+
+| Title | Authors | In One Sentence | Summary | Date | Link | Conference |
+| -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Compacting, Picking and Growing for Unforgetting Continual Learning | Steven C.Y. Hung et al. | Leveraging Pruning and Progressive Networks Expansion can deal with catastrophic forgetting while retaining model compactness. | [Summary](./paper-summary/continual-learning/CompactingPickingGrowing.md) | 18/06/2019 | [Paper](https://proceedings.neurips.cc/paper/2019/file/3b220b436e5f3d917a1e649a0dc0281c-Paper.pdf) | NeurIPS 2019 | 
 
