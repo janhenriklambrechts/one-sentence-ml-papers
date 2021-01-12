@@ -57,5 +57,6 @@ Ordered by topic 🗂️:
 
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Progressive Neural Networks | Andrei A. Rusu, Neil C. Rabinowitz et al. | Grow lateral connections to features learned by frozen weights | [Summary](./paper-summary/continual-learning/ProgressiveNetworks.md) | 01/01/2016 | [Paper](https://arxiv.org/pdf/1606.04671.pdf) | Arxiv | 
 | Compacting, Picking and Growing for Unforgetting Continual Learning | Steven C.Y. Hung et al. | Leveraging Pruning and Progressive Networks Expansion can deal with catastrophic forgetting while retaining model compactness. | [Summary](./paper-summary/continual-learning/CompactingPickingGrowing.md) | 18/06/2019 | [Paper](https://proceedings.neurips.cc/paper/2019/file/3b220b436e5f3d917a1e649a0dc0281c-Paper.pdf) | NeurIPS 2019 | 
 
