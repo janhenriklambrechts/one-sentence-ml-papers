@@ -13,6 +13,7 @@ Ordered by topic 🗂️:
 - Robustness 🛡️
 - Deploying ML ☁️ 
 - Continual Learning ♻️
+- Dynamic Inference 🐙
 
 ## GANs 🖼️
 
@@ -57,6 +58,14 @@ Ordered by topic 🗂️:
 
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| NetTailor: Tuning the Architecture, Not just the Weights | Pedro Morgado et al. | Tuning the architecture, not just the weights | [Summary](./paper-summary/continual-learning/NetTailor.md) | 29/06/2019 | [Paper](http://www.svcl.ucsd.edu/~morgado/nettailor/nettailor.pdf)| CVPR 2019 | 
 | Progressive Neural Networks | Andrei A. Rusu, Neil C. Rabinowitz et al. | Grow lateral connections to features learned by frozen weights | [Summary](./paper-summary/continual-learning/ProgressiveNetworks.md) | 01/01/2016 | [Paper](https://arxiv.org/pdf/1606.04671.pdf) | Arxiv | 
 | Compacting, Picking and Growing for Unforgetting Continual Learning | Steven C.Y. Hung et al. | Leveraging Pruning and Progressive Networks Expansion can deal with catastrophic forgetting while retaining model compactness. | [Summary](./paper-summary/continual-learning/CompactingPickingGrowing.md) | 18/06/2019 | [Paper](https://proceedings.neurips.cc/paper/2019/file/3b220b436e5f3d917a1e649a0dc0281c-Paper.pdf) | NeurIPS 2019 | 
+
+## Dynamic Inference 🐙
+
+| Title | Authors | In One Sentence | Summary | Date | Link | Conference |
+| -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Anytime Inference with Distilled Hierarchical Neural Ensembles | Andria Ruiz et al. | Dynamically allocating multiple models in the ensemble and training them with distillation provides good dynamic inference | [Summary](./paper-summary/dynamic-inference/HNE.md) | 14/12/2020 | [Paper](https://arxiv.org/pdf/2003.01474.pdf)| AAAI 2020 | 
+
 
