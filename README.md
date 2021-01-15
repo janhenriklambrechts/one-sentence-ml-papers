@@ -14,6 +14,7 @@ Ordered by topic 🗂️:
 - Deploying ML ☁️ 
 - Continual Learning ♻️
 - Dynamic Inference 🐙
+- Vision Architectures 🔍
 
 ## GANs 🖼️
 
@@ -67,5 +68,11 @@ Ordered by topic 🗂️:
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
 | Anytime Inference with Distilled Hierarchical Neural Ensembles | Andria Ruiz et al. | Dynamically allocating multiple models in the ensemble and training them with distillation provides good dynamic inference | [Summary](./paper-summary/dynamic-inference/HNE.md) | 14/12/2020 | [Paper](https://arxiv.org/pdf/2003.01474.pdf)| AAAI 2020 | 
+
+## Vision Architectures 🔍
+
+| Title | Authors | In One Sentence | Summary | Date | Link | Conference |
+| -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| RepVGG: Making VGG-style ConvNets Great Again | Xiaohan Ding et al. | Decoupling of training-time and inference-time architecture can lead to inference speedup of 83% over ResNet-50 while reaching 80+% on ImageNet | [Summary](./paper-summary/vision-architectures/RepVGG.md) | 11/01/2021 | [Paper](https://arxiv.org/pdf/2101.03697v1.pdf)| ArXiv | 
 
 
