@@ -67,6 +67,7 @@ Ordered by topic 🗂️:
 
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Universally Slimmable Networks and Improved Training Techniques | Jiahui Yu et al. | Makes Slimmable networks able to run at arbitrary widths | [Summary](./paper-summary/dynamic-inference/UniversalSlimmable.md) | [Paper](ihttps://arxiv.org/abs/1903.05134) | ICCV 2019 |
 | Anytime Inference with Distilled Hierarchical Neural Ensembles | Andria Ruiz et al. | Dynamically allocating multiple models in the ensemble and training them with distillation provides good dynamic inference | [Summary](./paper-summary/dynamic-inference/HNE.md) | 14/12/2020 | [Paper](https://arxiv.org/pdf/2003.01474.pdf)| AAAI 2020 | 
 
 ## Vision Architectures 🔍
