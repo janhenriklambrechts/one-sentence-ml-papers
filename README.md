@@ -12,10 +12,10 @@ Ordered by topic 🗂️:
 - Data Augmentation ✨
 - Robustness 🛡️
 - Deploying ML ☁️ 
-- Continual Learning ♻️
+- Continual Learning / Tranfer Learning ♻️
 - Dynamic Inference 🐙
 - Vision Architectures 🔍
-
+- Deep Reinforcement Learning 🤖
 ## GANs 🖼️
 
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
@@ -55,13 +55,16 @@ Ordered by topic 🗂️:
 | Machine Learning: The High-Interest Credit Card of Technical Debt | D. Sculley et al. | Highlights risk factors and design patterns to be avoided in building ML systems  | [Summary](./paper-summary/deploying-ml/MLTechnicalDebt.md) | 18/11/2014 | [Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) | NeurIPS 2014 Workshop | 
 | Challenges in Deploying ML: A Survey of Case Studies | Andrei Paleyes et al. | A survey of deploying ML solutions for different use cases  | [Summary](./paper-summary/deploying-ml/ChallengesInDeployingML.md) | 18/11/2020 | [Paper](https://arxiv.org/pdf/2011.09926.pdf) | NeurIPS 2020 Workshop | 
 
-## Continual Learning ♻️
+## Continual Learning / Transfer Learning ♻️
 
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Mutual Alignment Transfer Learning | Markus Wulfmeister et al. | Demonstrates that auxilary rewards can bridge the gap between simulation and real-world robots | [Summary](./paper-summary/continual-learning/MATL.md) | 26/09/2017 | [Paper](https://arxiv.org/pdf/1707.07907.pdf)| CoRL 2017 | 
 | NetTailor: Tuning the Architecture, Not just the Weights | Pedro Morgado et al. | Tuning the architecture, not just the weights | [Summary](./paper-summary/continual-learning/NetTailor.md) | 29/06/2019 | [Paper](http://www.svcl.ucsd.edu/~morgado/nettailor/nettailor.pdf)| CVPR 2019 | 
 | Progressive Neural Networks | Andrei A. Rusu, Neil C. Rabinowitz et al. | Grow lateral connections to features learned by frozen weights | [Summary](./paper-summary/continual-learning/ProgressiveNetworks.md) | 01/01/2016 | [Paper](https://arxiv.org/pdf/1606.04671.pdf) | Arxiv | 
 | Compacting, Picking and Growing for Unforgetting Continual Learning | Steven C.Y. Hung et al. | Leveraging Pruning and Progressive Networks Expansion can deal with catastrophic forgetting while retaining model compactness. | [Summary](./paper-summary/continual-learning/CompactingPickingGrowing.md) | 18/06/2019 | [Paper](https://proceedings.neurips.cc/paper/2019/file/3b220b436e5f3d917a1e649a0dc0281c-Paper.pdf) | NeurIPS 2019 | 
+| PathNet: Evolution Channels Gradient Descent in Super Neural Networks | Genetic Algorithm that replicates and mutates earlier paths for faster transfer learning | [Summary](./paper-summary/deep-rl/pathnet.md) | 19/11/2019 | [Paper](https://arxiv.org/pdf/1701.08734.pdf)| ArXiv | 
+
 
 ## Dynamic Inference 🐙
 
@@ -75,5 +78,11 @@ Ordered by topic 🗂️:
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
 | RepVGG: Making VGG-style ConvNets Great Again | Xiaohan Ding et al. | Decoupling of training-time and inference-time architecture can lead to inference speedup of 83% over ResNet-50 while reaching 80+% on ImageNet | [Summary](./paper-summary/vision-architectures/RepVGG.md) | 11/01/2021 | [Paper](https://arxiv.org/pdf/2101.03697v1.pdf)| ArXiv | 
+
+## Deep Reinforcement Learning 🤖
+
+| Title | Authors | In One Sentence | Summary | Date | Link | Conference |
+| -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model  | Tree search and learned model can master unknown and complex environments | [Summary](./paper-summary/deep-rl/muzero.md) | 19/11/2019 | [Paper](https://arxiv.org/abs/1911.08265)| ArXiv | 
 
 
