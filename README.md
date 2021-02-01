@@ -66,9 +66,7 @@ Ordered by topic 🗂️:
 | PathNet: Evolution Channels Gradient Descent in Super Neural Networks | Chrisantha Fernando et al. | Genetic Algorithm that replicates and mutates earlier paths for faster transfer learning | [Summary](./paper-summary/deep-rl/pathnet.md) | 19/11/2019 | [Paper](https://arxiv.org/pdf/1701.08734.pdf)| ArXiv | 
 | Contextual Transformation Networks for Online Continual Learning | Quang Pham et al. | Online Continual Learning method to model task-specific features for fixed architecture methods | [Summary](./paper-summary/continual-learning/CTN.md) | 25/01/2021 | [Paper](https://openreview.net/pdf?id=zx_uX-BO7CH)| ICLR 2021 | 
 | Overcoming catastrophic forgetting in neural networks | James Kirkpatrick et al. | Slowing down learning on weights important for earlier tasks overcomes catastrophic forgetting | [Summary](./paper-summary/continual-learning/OvercomingForgetting.md) | 25/01/2017 | [Paper](https://arxiv.org/pdf/1612.00796.pdf)| Arxiv | 
-
-
-
+| Continual Learning with Hypernetworks | Johannes von Oswald et al. | To overcome gigantic network growth for new tasks, we build task-conditioned hypernetworks | [Summary](./paper-summary/continual-learning/CLwithHN.md) | 12/02/2020 | [Paper](https://arxiv.org/pdf/1906.00695.pdf)| ICLR 2020 | 
 
 ## Dynamic Inference 🐙
 
