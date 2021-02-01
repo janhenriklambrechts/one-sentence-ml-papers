@@ -63,7 +63,9 @@ Ordered by topic 🗂️:
 | NetTailor: Tuning the Architecture, Not just the Weights | Pedro Morgado et al. | Tuning the architecture, not just the weights | [Summary](./paper-summary/continual-learning/NetTailor.md) | 29/06/2019 | [Paper](http://www.svcl.ucsd.edu/~morgado/nettailor/nettailor.pdf)| CVPR 2019 | 
 | Progressive Neural Networks | Andrei A. Rusu, Neil C. Rabinowitz et al. | Grow lateral connections to features learned by frozen weights | [Summary](./paper-summary/continual-learning/ProgressiveNetworks.md) | 01/01/2016 | [Paper](https://arxiv.org/pdf/1606.04671.pdf) | Arxiv | 
 | Compacting, Picking and Growing for Unforgetting Continual Learning | Steven C.Y. Hung et al. | Leveraging Pruning and Progressive Networks Expansion can deal with catastrophic forgetting while retaining model compactness. | [Summary](./paper-summary/continual-learning/CompactingPickingGrowing.md) | 18/06/2019 | [Paper](https://proceedings.neurips.cc/paper/2019/file/3b220b436e5f3d917a1e649a0dc0281c-Paper.pdf) | NeurIPS 2019 | 
-| PathNet: Evolution Channels Gradient Descent in Super Neural Networks | Genetic Algorithm that replicates and mutates earlier paths for faster transfer learning | [Summary](./paper-summary/deep-rl/pathnet.md) | 19/11/2019 | [Paper](https://arxiv.org/pdf/1701.08734.pdf)| ArXiv | 
+| PathNet: Evolution Channels Gradient Descent in Super Neural Networks | Chrisantha Fernando et al. | Genetic Algorithm that replicates and mutates earlier paths for faster transfer learning | [Summary](./paper-summary/deep-rl/pathnet.md) | 19/11/2019 | [Paper](https://arxiv.org/pdf/1701.08734.pdf)| ArXiv | 
+| Contextual Transformation Networks for Online Continual Learning | Quang Pham et al. | Online Continual Learning method to model task-specific features for fixed architecture methods | [Summary](./paper-summary/continual-learning/pathnet.md) | 25/01/2021 | [Paper](https://openreview.net/pdf?id=zx_uX-BO7CH)| ICLR 2021 | 
+
 
 
 ## Dynamic Inference 🐙
