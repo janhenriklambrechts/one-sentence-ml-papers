@@ -59,6 +59,7 @@ Ordered by topic 🗂️:
 
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting | Sayna Ebrahimi et al. | Use saliency maps for experience replay to reduce catastrophic forgetting even more | [Summary](./paper-summary/continual-learning/RememberRight.md) | 25/01/2021 | [Paper](https://openreview.net/pdf?id=tHgJoMfy6nI)| ICLR 2021 | 
 | Mutual Alignment Transfer Learning | Markus Wulfmeister et al. | Demonstrates that auxilary rewards can bridge the gap between simulation and real-world robots | [Summary](./paper-summary/continual-learning/MATL.md) | 26/09/2017 | [Paper](https://arxiv.org/pdf/1707.07907.pdf)| CoRL 2017 | 
 | NetTailor: Tuning the Architecture, Not just the Weights | Pedro Morgado et al. | Tuning the architecture, not just the weights | [Summary](./paper-summary/continual-learning/NetTailor.md) | 29/06/2019 | [Paper](http://www.svcl.ucsd.edu/~morgado/nettailor/nettailor.pdf)| CVPR 2019 | 
 | Progressive Neural Networks | Andrei A. Rusu, Neil C. Rabinowitz et al. | Grow lateral connections to features learned by frozen weights | [Summary](./paper-summary/continual-learning/ProgressiveNetworks.md) | 01/01/2016 | [Paper](https://arxiv.org/pdf/1606.04671.pdf) | Arxiv | 
