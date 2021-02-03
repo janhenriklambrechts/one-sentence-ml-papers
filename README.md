@@ -59,6 +59,8 @@ Ordered by topic 🗂️:
 
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
+| Three scenarios for continual learning | Gido van de Ven et al. | Establishes and classifies earlier continual learning scenarios | [Summary](./paper-summary/continual-learning/three-scenarios.md) | 15/04/2019 | [Paper](https://arxiv.org/pdf/1904.07734.pdf)| Arxiv | 
+| Few-Shot Class Incremental Learning | Xiaoyu Tao et al. | Representing knowledge using a network can learn and preserve the topology of feature manifold formed by different classes | [Summary](./paper-summary/continual-learning/FCIL.md) | 24/04/2020 | [Paper](https://arxiv.org/pdf/2004.10956.pdf)| CVPR 2020 | 
 | Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting | Sayna Ebrahimi et al. | Use saliency maps for experience replay to reduce catastrophic forgetting even more | [Summary](./paper-summary/continual-learning/RememberRight.md) | 25/01/2021 | [Paper](https://openreview.net/pdf?id=tHgJoMfy6nI)| ICLR 2021 | 
 | Mutual Alignment Transfer Learning | Markus Wulfmeister et al. | Demonstrates that auxilary rewards can bridge the gap between simulation and real-world robots | [Summary](./paper-summary/continual-learning/MATL.md) | 26/09/2017 | [Paper](https://arxiv.org/pdf/1707.07907.pdf)| CoRL 2017 | 
 | NetTailor: Tuning the Architecture, Not just the Weights | Pedro Morgado et al. | Tuning the architecture, not just the weights | [Summary](./paper-summary/continual-learning/NetTailor.md) | 29/06/2019 | [Paper](http://www.svcl.ucsd.edu/~morgado/nettailor/nettailor.pdf)| CVPR 2019 | 
