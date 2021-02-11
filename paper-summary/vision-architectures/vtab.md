@@ -3,7 +3,7 @@
 | A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark | Xiaohua Zhai et al. | A unified evaluation for general visual representations by combining a bunch of vision tasks into one | [Summary](./paper-summary/vision-architectures/vtab.md) | 21/02/2020 | [Paper](https://arxiv.org/pdf/1910.04867.pdf)| ArXiv | 
 
 ### Abstract
-- Representation learning has come a long way but we do not reallyhave a standardized benchmark to get some score for representations. We basically only have ImageNet in vision
+- Representation learning has come a long way but we do not really have a standardized benchmark to get some score for representations. We basically only have ImageNet in vision
 - Popular protocols are often very constrained (linear classification), limited in diversity (ImageNet, CIFAR, Pascal-VOC) or only weakly correlated to representation quality (ELBO, reconstruction error).
 - VTAB idea: Good representations are those that adapt well to **diverse**, **unseen** tasks with **few examples**.
 
