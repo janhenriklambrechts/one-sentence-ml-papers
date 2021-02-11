@@ -86,6 +86,8 @@ Ordered by topic 🗂️:
 | Title | Authors | In One Sentence | Summary | Date | Link | Conference |
 | -----  | ------ | --------------- | ------- | ---- | ---- | ---------- |
 | RepVGG: Making VGG-style ConvNets Great Again | Xiaohan Ding et al. | Decoupling of training-time and inference-time architecture can lead to inference speedup of 83% over ResNet-50 while reaching 80+% on ImageNet | [Summary](./paper-summary/vision-architectures/RepVGG.md) | 11/01/2021 | [Paper](https://arxiv.org/pdf/2101.03697v1.pdf)| ArXiv | 
+| A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark | Xiaohua Zhai et al. | A unified evaluation for general visual representations by combining a bunch of vision tasks into one | [Summary](./paper-summary/vision-architectures/vtab.md) | 21/02/2020 | [Paper](https://arxiv.org/pdf/1910.04867.pdf)| ArXiv | 
+
 
 ## Deep Reinforcement Learning 🤖
 
